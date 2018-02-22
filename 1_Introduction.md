@@ -14,7 +14,7 @@ This direction is supported by the Prime Minister; in October, 2017, the Preside
 
 This whitepaper has two objectives:
 1) To help inform a future GC policy that encompasses the use of open source tools.
-2) Determine a governance process for esnuring the effective and sustainable implemetnation of open source tools across the GC.
+2) Determine a governance process for ensuring the effective and sustainable implementation of open source tools across the GC.
 
 ### Contributing
 
